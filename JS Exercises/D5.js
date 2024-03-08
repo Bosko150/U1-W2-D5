@@ -108,8 +108,8 @@ let i = 0;
 while (n !== 100) {
   /*se vogliamo stampare anche il 32 la condizione dovrà essere (n !== 32) */
   n = numericArray[i];
-  i++;
   console.log(n);
+  i++;
 }
 
 /* ESERCIZIO 10
